@@ -1,19 +1,31 @@
+p {
+  background-color: rgb(196, 226, 148);
+  text-align: justify;
+}
 
-    p {
-        background-color: rgb(196, 226, 148);
-        text-align: justify;
-    }
-
-
-    h1 {
+/* h1 {
         text-align: center;
         color: white;
         background-color: burlywood;
-    }
+    } */
+.A {
+  text-align: center;
+  color: white;
+  background-color: burlywood;
+}
 
-
-    h2 {
+/* h2 {
         text-align: center;
         color: rgb(230, 230, 230);
         background-color: rgb(99, 90, 79);
-    }
+    } */
+
+.B {
+  text-align: center;
+  color: rgb(230, 230, 230);
+  background-color: rgb(99, 90, 79);
+}
+#sample-id-selector {
+  background-color: rgb(148, 197, 226);
+  text-align: justify;
+}

@@ -3,16 +3,19 @@ p {
   text-align: justify;
 }
 
-/* h1 {
-        text-align: center;
-        color: white;
-        background-color: burlywood;
-    } */
-.A {
+h1 {
+  text-align: center;
+  color: white;
+  background-color: rgb(196, 193, 190);
+  padding: 20px 0 20px;
+  margin: 50px;
+  border-radius: 40px 0px 40px 0px;
+}
+/* .A {
   text-align: center;
   color: white;
   background-color: burlywood;
-}
+} */
 
 /* h2 {
         text-align: center;
@@ -31,9 +34,9 @@ p {
 }
 
 body {
-  background-image: url(../image/BackGround.jpg);
+  background-image: url(../image/BackGround.jpg); /*Relative Path*/
+  /* background-image: url(G:\ICET\Internet Tech\Day 5\image);Absolute Path */
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  
 }
